@@ -11,9 +11,9 @@ from logging.handlers import RotatingFileHandler
 
 # Config 
 class Config(object):
-    BOT_TOKEN = os.environ.get("BOT_TOKEN", "7535024319:AAFbk6M1WuFQMEhqGsE2B9mg7VzXutJ1UW8")
-    API_ID = int(os.environ.get("API_ID",  "22100695"))
-    API_HASH = os.environ.get("API_HASH", "0e8f93300ccbbcd56066e6d790b0d3b2")
+    BOT_TOKEN = os.environ.get("BOT_TOKEN", "8003649544:AAGoiThVN8KLJyKGsGf1BcfTsjDTrSmjFR8")
+    API_ID = int(os.environ.get("API_ID",  "27900743"))
+    API_HASH = os.environ.get("API_HASH", "ebb06ea8d41420e60b29140dcee902fc")
     DOWNLOAD_LOCATION = "./DOWNLOADS"
     SESSIONS = "./SESSIONS"
     
